@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "My Hello Extension",
+    "description": "Hello world chrome Extension",
+    "version": "1.0",
+    "action": {
+        "default_popup": "hello.html",
+        "default_icon": "gmKIT88Ha1z8VBMJFOOH.png"
+    }
+}
